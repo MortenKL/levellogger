@@ -10,7 +10,7 @@ import (
 	"strings"
 	"testing"
 
-	log "github.com/MortenKL/levellogger"
+	log "github.com/mortenkl/levellogger"
 )
 
 //Some times a logfile is deleted, and the logger should then be able to recreate the logfile
